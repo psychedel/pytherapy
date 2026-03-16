@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Virtual environments
+.venv/
+
+# Testing
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code (local settings)
+.claude/
+
+# Session state & client data
+.session_state.json
+data/
+
+# OS
+.DS_Store
+Thumbs.db
